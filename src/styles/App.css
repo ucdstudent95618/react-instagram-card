@@ -1,0 +1,44 @@
+.profile__img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  line-height: 40px;
+  float: left;
+}
+
+
+.header {
+  padding: 10px;
+  height: 39px;
+  border-bottom: 1px solid #efefef;
+}
+
+.left {
+  padding-left: 5px;
+  margin: auto;
+}
+
+.user__name {
+  text-align: center;
+  vertical-align: center;
+  line-height: 40px;
+  float: left;
+  padding-left: 10px;
+  /* font */
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.mediaPhoto {
+  width: 616px;
+}
+
+.App {
+  width: 616px;
+  height: 1000px;
+  margin-top: 2%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid #efefef;
+}
