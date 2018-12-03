@@ -13,6 +13,10 @@ class App extends Component {
           profileImageUrl={headshot}
           username={data.username}
           mediaUrl={media}
+          like={data.liked}
+          likes={data.likes}
+          caption={data.caption}
+          posted={data.posted}
        />
       </div>
     );
