@@ -1,5 +1,6 @@
 {
   "name": "social-card-2",
+  "homepage": "http://ucdstudent95618.github.io/react-instagram-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +13,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "http://ucdstudent95618.github.io/react-instagram-card",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

@@ -121,7 +121,7 @@ i {
 
 .comment-textarea{
   position: relative;
-  vertical-align: center;
+  width: 100%;
   background: 0 0;
   border: 0;
   color: #262626;
