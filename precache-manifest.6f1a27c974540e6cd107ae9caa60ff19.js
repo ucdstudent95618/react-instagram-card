@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/react-instagram-card/static/js/runtime~main.a57b85bd.js"
   },
   {
-    "revision": "dd102652ae2702bfb017",
-    "url": "/react-instagram-card/static/js/main.dd102652.chunk.js"
+    "revision": "4fe7827ebef09585c7e5",
+    "url": "/react-instagram-card/static/js/main.4fe7827e.chunk.js"
   },
   {
     "revision": "1dd1377b76e852f2f673",
     "url": "/react-instagram-card/static/js/1.1dd1377b.chunk.js"
   },
   {
-    "revision": "dd102652ae2702bfb017",
-    "url": "/react-instagram-card/static/css/main.cb205696.chunk.css"
+    "revision": "4fe7827ebef09585c7e5",
+    "url": "/react-instagram-card/static/css/main.abb307c3.chunk.css"
   },
   {
-    "revision": "37cf989aa05d145cf7d4a5129cf9c070",
+    "revision": "d8ad0bca949028d8bb92069aa4aad040",
     "url": "/react-instagram-card/index.html"
   }
 ];
