@@ -1,8 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Instagram Card
 
-## Available Scripts
+Utilizing the React library and Font-awesome, recreated the Instagram social card.
 
-In the project directory, you can run:
+<img src="./instagram-card.png" height="500px;" />
+
 
 ### `npm start`
 
