@@ -2,7 +2,7 @@
 
 Utilizing the React library and Font-awesome, recreated the Instagram social card.
 
-<img src="./instagram-card.png" height="500px;" />
+<img src="./instagram-card.png" height="700px;" />
 
 
 ### `npm start`
